@@ -16,8 +16,7 @@ ENV_GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
 st.set_page_config(
     page_title="GroqChat — AI Assistant",
     layout="centered",
-    initial_sidebar_state="expanded",
-    page_icon="🤖"
+    initial_sidebar_state="expanded"
 )
 
 # Constants 
