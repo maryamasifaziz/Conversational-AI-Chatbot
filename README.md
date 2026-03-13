@@ -21,6 +21,8 @@
 ![Dashboard Screenshot 3](images/dashboard3.png)
 ![Dashboard Screenshot 3](images/dashboard4.png)
 ![Dashboard Screenshot 3](images/dashboard5.png)
+![Dashboard Screenshot 3](images/dashboard6.png)
+![Dashboard Screenshot 3](images/dashboard7.png)
 
 ---
 
