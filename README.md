@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live App](https://conversational-ai-chatbot.streamlit.app)
+🔗 [View Live App](https://groqchat-ai-assistant.streamlit.app)
 
 ---
 
